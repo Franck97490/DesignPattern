@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Projects">
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/Strategie/VolAvecAilles.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/AdaptateurLegacy/LegacyLine.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/Strategie/AdaptateurDindon.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/LogerStratégie/Formater_HTML.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/Strategie/Dindon.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/DécorateurDessert/MainDessert.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/ExoMajuscule/DécorateurFichier.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/AdaptateurLegacy/LegacyMain.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/ExoChaine/Chaine.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/LogerStratégie/Logger_Console.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/AdaptateurLegacy/InterfaceShape.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/ExoChaine/Italique.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/AdaptorCarrouf/PortableSonneEricSonne.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/designpattern/DesignPattern.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/AdaptateurLegacy/Rectangle.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/Strategie/Vol.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/ExoChaine/Balise.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/AdaptateurLegacy/LegacyRectangle.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/ExoChaine/MainChaine.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/AdaptateurLegacy/Line.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/Strategie/Canard.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/Décorateur/FactureDetaillee.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/AdaptorCarrouf/PortableSamSaoule.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/ExoChaine/Gras.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/Décorateur/Facture.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/ExoMajuscule/MainMajuscule.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/Décorateur/DecorateurDeFacture.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/Décorateur/Pub.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/AdaptorCarrouf/IChargeable.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/Décorateur/EnTete.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/AdaptorCarrouf/AdaptorSES.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/AdaptorCarrouf/Chargeur.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/Décorateur/FactureSimple.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/Strategie/NoVol.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/DécorateurDessert/Gaufre.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/AdaptorCarrouf/AdaptorSS.java</file>
+            <file>file:/C:/Users/franc/OneDrive/Documents/COURS/JAVA/Projects/DesignPattern/src/Strategie/Dodo.java</file>
+        </group>
+    </open-files>
+</project-private>
